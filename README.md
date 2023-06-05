@@ -1,2 +1,2 @@
-# Project-Na-ve-Bees-Predict-Species-from-Images
-Can a machine identify a bee as a honey bee or a bumble bee? These bees have different behaviors and appearances, but given the variety of backgrounds, positions, and image resolutions, it can be a challenge for machines to tell them apart.
+# Project: Naïve Bees: Predict Species from Images
+Can a machine distinguish between a honey bee and a bumble bee? Being able to identify bee species from images, while challenging, would allow researchers to more quickly and effectively collect field data. In this project, you will use the Python image library Pillow to load and manipulate image data, then build a model to identify honey bees and bumble bees given an image of these insects.
